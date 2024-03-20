@@ -1,5 +1,6 @@
 <?php
-include('_header.php');
+  $title='';
+  include('_header.php');
 ?>
     
     <section>
